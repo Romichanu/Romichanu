@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Romichanu
-- 👀 I’m interested in gardening,learning new things
 - 🌱 I’m currently learning Python,SQL,POWER BI,Tableau
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chanumi5@gmail.com
 - 😄 Pronouns: she
 - 
